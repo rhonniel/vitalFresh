@@ -1,6 +1,6 @@
 # vitalFresh
 
-Concepto de negocio
+**Concepto de negocio**
 El negocio vendera productos, inicialmente batidos, estos deben contar con la cantidad de calorias que poseen. Mas adelante se desea que los clientes puedan personalizar los batidos y poder visualizar las calorias que poseen.
 
 Ingrediente
